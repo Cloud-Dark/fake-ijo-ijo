@@ -1,1 +1,0 @@
-fake-git-history --start-date "07/03/2021" --end-date "07/03/2022" --start-time "09:00:00" --end-time "17:00:00" -tz "-0300" --commit-per-day "4-6" --remote-origin "git@github.com:<YOUR-USERNAME>/<YOUR-REPO>.git" --auto-git-push --verbose
